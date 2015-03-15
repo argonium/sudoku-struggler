@@ -1,6 +1,8 @@
 # Sudoku Struggler
 The Sudoku Struggler is a desktop application, written in Java, that can be used to solve Sudoku puzzles. It won't generate a new puzzle, but it can solve a puzzle pretty well. It can solve a medium difficulty puzzle in under 50 milliseconds and a hard one in 100-120 milliseconds. It also lets a user save a Sudoku puzzle to a file as well as load that puzzle file.
 
+![Sudoku Struggler](http://argonium.github.io/ss.png)
+
 To run the program, Java 5 or later is required. From an Explorer-type of window, you can usually just double-click the jar file to run it. From a command line, use this command to run it:
 
 ```
